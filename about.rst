@@ -5,7 +5,7 @@ title: About
 About
 -----
 
-This is my personal website. I write about my interests and things I like to
+This is my personal website. I aim write about my interests and things I like to
 learn about. 
 
 Interests
@@ -27,10 +27,6 @@ Curriculum Vitae
 - 2016: MSc Applied Mathematics (distinction), Imperial College London
 - 2015: MSc Computer Science, Datalogisk Insitut, Københavns Universitet
 - 2013: BSc Computer Science, Datalogisk Insitut, Københavns Universitet
-
-You can also get a PDF_.
-
-.. _PDF: something
 
 Personal
 ========
